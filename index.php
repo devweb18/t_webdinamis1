@@ -4,7 +4,7 @@
 	<title>TUGAS 1</title>
 </head>
 <body>
-<h5>NAMA : ILHAM ROYANI</h5>
+<h5>NAMA : ILHAM</h5>
 <h5>NIM : 11170391</h5>
 <hr>
 <br>
